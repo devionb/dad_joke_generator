@@ -1,5 +1,5 @@
-# dad_joke_generator
-Dad Joke Generator with using JavaScript.
+# Dad Joke Generator
+Dad Joke Generator with JavaScript.
 
 ![screenshot of Dad Joke Generator](image/screen_shot_1.jpg)
 
